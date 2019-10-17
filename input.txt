@@ -1,0 +1,7 @@
+int main()
+{
+	FILE * f1;
+        char c;
+	float b;
+}
+
